@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\source\\MyApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{064E1869-CFEA-4B22-8BBE-4AE1EDBC009E}|MyApplication.Test\\MyApplication.Test.csproj|c:\\temp\\source\\myapplication\\myapplication.test\\produtotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064E1869-CFEA-4B22-8BBE-4AE1EDBC009E}|MyApplication.Test\\MyApplication.Test.csproj|solutionrelative:myapplication.test\\produtotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A28F1F-0A7A-4BF3-827C-BB3EE152CE08}|MyApplication.Web\\MyApplication.Web.csproj|c:\\temp\\source\\myapplication\\myapplication.web\\domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A28F1F-0A7A-4BF3-827C-BB3EE152CE08}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoTest.cs",
+              "DocumentMoniker": "C:\\Temp\\source\\MyApplication\\MyApplication.Test\\ProdutoTest.cs",
+              "RelativeDocumentMoniker": "MyApplication.Test\\ProdutoTest.cs",
+              "ToolTip": "C:\\Temp\\source\\MyApplication\\MyApplication.Test\\ProdutoTest.cs",
+              "RelativeToolTip": "MyApplication.Test\\ProdutoTest.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAswLAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:07:37.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Temp\\source\\MyApplication\\MyApplication.Web\\Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Temp\\source\\MyApplication\\MyApplication.Web\\Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "MyApplication.Web\\Domain\\Entities\\Produto.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAswFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:03:58.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
